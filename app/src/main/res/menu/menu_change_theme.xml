@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    tools:context=".Settings.SettingsActivity">
+
+    <item
+        android:id="@+id/alliance"
+        android:title="@string/alliance"
+        app:actionLayout="@layout/activity_settings" />
+    <item
+        android:id="@+id/union"
+        android:title="@string/union"
+        app:actionLayout="@layout/activity_settings" />
+    <item
+        android:id="@+id/hive"
+        android:title="@string/hive"
+        app:actionLayout="@layout/activity_settings" />
+    <item
+        android:id="@+id/empire"
+        android:title="@string/empire"
+        app:actionLayout="@layout/activity_settings" />
+
+
+</menu>

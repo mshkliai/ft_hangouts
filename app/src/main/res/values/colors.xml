@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#0f0f0f</color>
+    <color name="white">#ffffff</color>
+    <color name="darkGray">#7e7b7b</color>
+    <color name="green">#8f09802b</color>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="alliance">#0f6411</color>
+    <color name="empire">#6c0606</color>
+    <color name="hive">#159c8a</color>
+    <color name="union">#410f93</color>
+
+</resources>

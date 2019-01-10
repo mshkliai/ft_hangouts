@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contacts">Контакты</string>
+    <string name="settings">Настройки</string>
+    <string name="exit">Выйти</string>
+    <string name="change_photo">Сменить фото</string>
+    <string name="first_name">Имя:</string>
+    <string name="last_name">Фамилия:</string>
+    <string name="phone_number">Номер телефона:</string>
+    <string name="change_profile">Изменить профиль</string>
+    <string name="change_theme">Сменить тему</string>
+    <string name="change_language">Сменить язык</string>
+    <string name="def">По умолчанию</string>
+    <string name="new_contact">Создать контакт</string>
+    <string name="status">Статус</string>
+    <string name="mail">Электронная почта</string>
+    <string name="are_you_sure">Вы уверены ?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="contact">Контакт</string>
+    <string name="editing_contact">Редактирование контакта</string>
+    <string name="delete_success">Контакт успешно удалено !</string>
+    <string name="call">Позвонить</string>
+    <string name="message">Отправить сообщение</string>
+    <string name="send_message">Отправка сообщения</string>
+    <string name="send_success">Сообщение отправлено !</string>
+    <string name="remove">Удалить</string>
+
+    <string name="error1">Разрешённая длина имени 3–15 символов !</string>
+    <string name="error2">Номер должен быть длинной в 12 символов: (380-xx-xxx-xx-xx)</string>
+    <string name="error3">Только числа !</string>
+    <string name="error4">Допустимая длина адреса электронной почты 5–25 символов</string>
+    <string name="error5">Нет прав</string>
+    <string name="error6">Плохой номер телефона</string>
+    <string name="success">Контакт успешно создан !</string>
+    <string name="not_unique">Контакт с данным номером уже существует !</string>
+
+</resources>
